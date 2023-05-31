@@ -178,10 +178,9 @@ const Modal: React.FC<ModalProps> = ({
                     label={actionLabel}
                     onClick={handleSubmit}
                   />
-                  
                 </div>
+                {footer}
               </div>
-             
             </div>
           </div>
         </div>
