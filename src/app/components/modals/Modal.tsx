@@ -123,14 +123,15 @@ const Modal: React.FC<ModalProps> = ({
             "
             >
               {/*header*/}
-              <div className="
-                flex 
-                items-center 
-                p-6
-                rounded-t
-                justify-center
-                relative
-                border-b-[1px]
+              <div 
+              className="
+                  flex 
+                  items-center 
+                  p-6
+                  rounded-t
+                  justify-center
+                  relative
+                  border-b-[1px]
                 "
               >
                 <button
